@@ -18,7 +18,7 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <title>Nazee Africa</title>
-        <meta name="description" content="Nazee Africa is dedicated to bridging the digital divide by providing accessible technology education and empowering the next generation of African tech leaders." />
+        <meta name="description" content="Breaking barriers with technology-driven education, mentorship, and training tailored for impact." />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </head>
